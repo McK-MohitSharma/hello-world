@@ -11,6 +11,7 @@ To generate this message, Docker took the following steps:
  4. The Docker daemon streamed that output to the Docker client, which sent it
     to your terminal.
 
+//tester
 To try something more ambitious, you can run a Windows Server container with:
  PS C:\> docker run -it mcr.microsoft.com/windows/servercore powershell
 
